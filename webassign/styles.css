@@ -1,0 +1,44 @@
+body {
+    background-color: #000000;
+}
+
+h1 {
+    color: #76b5c5;
+}
+
+h2 {
+    color: #800080;
+}
+
+h3 {
+    color: #800080;
+}
+
+h4 {
+    color: #FFFF00;
+}
+
+p {
+    color: aliceblue
+}
+
+li {
+    color: aliceblue
+}
+
+.rec {
+    color: #FFA500;
+    font-weight: bold;
+}
+
+.rec:hover {
+    color: #FF007F;
+}
+
+table, td, th {
+    border: 0px solid;
+}
+
+.bigheader {
+    font-size: 50px;
+}
